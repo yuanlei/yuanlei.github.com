@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[缺口]]></title>
   <link href="http://yuanlei.github.com/atom.xml" rel="self"/>
   <link href="http://yuanlei.github.com/"/>
-  <updated>2012-05-26T14:32:00+08:00</updated>
+  <updated>2012-05-26T14:44:16+08:00</updated>
   <id>http://yuanlei.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Rockpile]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Zombie Ninjas Attack: A survivor's retrospective]]></title>
+    <link href="http://yuanlei.github.com/blog/2012/05/26/zombie-ninjas-attack-a-survivors-retrospective/"/>
+    <updated>2012-05-26T14:34:00+08:00</updated>
+    <id>http://yuanlei.github.com/blog/2012/05/26/zombie-ninjas-attack-a-survivors-retrospective</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[title]]></title>
+    <link href="http://yuanlei.github.com/blog/2012/05/26/title/"/>
+    <updated>2012-05-26T14:33:00+08:00</updated>
+    <id>http://yuanlei.github.com/blog/2012/05/26/title</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
