@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[缺口]]></title>
-  <link href="http://yuanlei.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 扯巴子 | 缺口]]></title>
+  <link href="http://yuanlei.github.com/blog/categories/扯巴子/atom.xml" rel="self"/>
   <link href="http://yuanlei.github.com/"/>
   <updated>2012-06-22T14:19:52+08:00</updated>
   <id>http://yuanlei.github.com/</id>
@@ -34,25 +34,7 @@
 
 <hr />
 
-<p>待&#8230;..</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[42]]></title>
-    <link href="http://yuanlei.github.com/blog/2012/05/28/42/"/>
-    <updated>2012-05-28T18:34:00+08:00</updated>
-    <id>http://yuanlei.github.com/blog/2012/05/28/42</id>
-    <content type="html"><![CDATA[<p>42</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Zombie Ninjas Attack: A survivor's retrospective]]></title>
-    <link href="http://yuanlei.github.com/blog/2012/05/26/zombie-ninjas-attack-a-survivors-retrospective/"/>
-    <updated>2012-05-26T14:34:00+08:00</updated>
-    <id>http://yuanlei.github.com/blog/2012/05/26/zombie-ninjas-attack-a-survivors-retrospective</id>
-    <content type="html"><![CDATA[
+<p>待.....</p>
 ]]></content>
   </entry>
   
