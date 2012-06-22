@@ -3,7 +3,7 @@ layout: post
 title: "王主任"
 date: 2012-05-29 11:43
 comments: true
-categories: 
+categories: "扯巴子"
 ---
 
 王主任最近说了以下几句话
