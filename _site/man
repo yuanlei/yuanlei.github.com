@@ -1,0 +1,6 @@
+rake new_post[""] 添加新文章
+rake new_page[""] 添加新页面
+
+rake generate 生成新页面
+rake preview 预览
+rake deploy 发布
